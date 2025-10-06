@@ -1,3 +1,3 @@
 # tanishk-first
 this is my repo first
-author - tanishk
+author - tanishk(change)
